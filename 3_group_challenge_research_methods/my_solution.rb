@@ -28,9 +28,9 @@ def my_hash_modification_method(source, thing_to_modify)
 end
 
 # Identify and describe the ruby method you implemented. 
-# 
-#
-#
+# I used the sort method to organize the numbers in the array and when there was a name with similar ages it would put the
+#array in alphabetical order as well. I found the hash method a little difficult to figure out but I went back to code academy and  
+#reseached hashes a bit more to get it to do what the array sorrting method did.
 
 
 # Person 3
